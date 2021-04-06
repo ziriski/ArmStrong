@@ -1,7 +1,10 @@
 # ArmStrong
 261491, 261492 Project | CPE CMU 2020  
 
-**Installation**
+**Intallation**
+สามารถติดตั้งไฟล์ ArmStrong.apk ลงบนอุปกรณ์ Android ได้เลย 
+
+**Installation สำหรับ Unity Project**
 1.  สร้าง Unity Project แบบ Universal Render Pipeline
 2.  Import ArmStrong.unitypackage
 3.  ติดตั้ง Post Peocessing Package โดยเข้าไปที่ Window > Package Manager จากนั้นทำการค้นหาและติดตั้ง Post Processing
