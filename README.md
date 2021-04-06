@@ -1,10 +1,11 @@
 # ArmStrong
 261491, 261492 Project | CPE CMU 2020  
 
-**Installation**<br />
+**_Installation_**<br />
 สามารถติดตั้งไฟล์ ArmStrong.apk ลงบนอุปกรณ์ Android ได้เลย 
+<br />
 
-**Installation สำหรับ Unity Project**<br />
+**_Installation สำหรับ Unity Project_**<br />
 1.  สร้าง Unity Project แบบ Universal Render Pipeline
 2.  Import ArmStrong.unitypackage
 3.  ติดตั้ง Post Peocessing Package โดยเข้าไปที่ Window > Package Manager จากนั้นทำการค้นหาและติดตั้ง Post Processing
@@ -23,8 +24,9 @@
     9     Info
 
 5.  ตั้งค่า Build สำหรับ Android โดยการเลือก Android ในช่อง Platform จากนั้นกด Switch Platform
+<br />
 
-**Database**<br />
+**_Database_**<br />
 ฐานข้อมูลของผู้เล่นในระบบจะถูกบันทึกไว้ใน Firebase Realtime Database<br />
 https://siri-thesis-default-rtdb.firebaseio.com/ <br />
 โดยโปรแกรมสามารถเข้าถึงฐานข้อมูลนี้ผ่าน Rest Client API ซึ่งถูกติดตั้งไว้ใน ArmStrong.unitypackage เป็นที่เรียบร้อยแล้ว
