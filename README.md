@@ -7,9 +7,10 @@ https://siri-thesis-default-rtdb.firebaseio.com/
 1.  สร้าง Unity Project แบบ Universal Render Pipeline
 2.  Import ArmStrong.unitypackage
 3.  ติดตั้ง Post Peocessing Package โดยเข้าไปที่ Window > Package Manager จากนั้นทำการค้นหาและติดตั้ง Post Processing
-4.  เพิ่ม Scene ใน Build Settings โดยเข้าไปที่ File > Build Settings จากนั้นนำ Scene ในโฟลเดอร์ Scenes มาใส่ในช่อง Scenes In Build โดยเรียงลำดับดังนี้ 
+4.  เพิ่ม Scene ใน Build Settings โดยเข้าไปที่ File > Build Settings จากนั้นนำ Scene ในโฟลเดอร์ Scenes มาใส่ในช่อง Scenes In Build 
+    โดยเรียงลำดับดังนี้ 
 
-    0     Login
+    0     Login\n
     1     SignUp
     2     Home
     3     Line
