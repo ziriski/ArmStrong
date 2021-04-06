@@ -1,7 +1,7 @@
 # ArmStrong
 261491, 261492 Project | CPE CMU 2020  
 
-**Intallation**
+**Installation**
 สามารถติดตั้งไฟล์ ArmStrong.apk ลงบนอุปกรณ์ Android ได้เลย 
 
 **Installation สำหรับ Unity Project**
