@@ -1,7 +1,7 @@
 # ArmStrong
 261491, 261492 Project | CPE CMU 2020  
 
-**_Installation_**<br /><br />
+**_Installation_**<br />
 สามารถติดตั้งไฟล์ ArmStrong.apk ลงบนอุปกรณ์ Android ได้เลย 
 <br /><br />
 
@@ -26,7 +26,7 @@
 5.  ตั้งค่า Build สำหรับ Android โดยการเลือก Android ในช่อง Platform จากนั้นกด Switch Platform
 <br />
 
-**_Database_**<br /><br />
+**_Database_**<br />
 ฐานข้อมูลของผู้เล่นในระบบจะถูกบันทึกไว้ใน Firebase Realtime Database<br />
 https://siri-thesis-default-rtdb.firebaseio.com/ <br />
 โดยโปรแกรมสามารถเข้าถึงฐานข้อมูลนี้ผ่าน Rest Client API ซึ่งถูกติดตั้งไว้ใน ArmStrong.unitypackage เป็นที่เรียบร้อยแล้ว
