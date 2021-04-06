@@ -1,8 +1,6 @@
 # ArmStrong
 261491, 261492 Project | CPE CMU 2020  
 
-https://siri-thesis-default-rtdb.firebaseio.com/
-
 **Installation**
 1.  สร้าง Unity Project แบบ Universal Render Pipeline
 2.  Import ArmStrong.unitypackage
@@ -22,3 +20,8 @@ https://siri-thesis-default-rtdb.firebaseio.com/
     9     Info
 
 5.  ตั้งค่า Build สำหรับ Android โดยการเลือก Android ในช่อง Platform จากนั้นกด Switch Platform
+
+**Database**
+ฐานข้อมูลของผู้เล่นในระบบจะถูกบันทึกไว้ใน Firebase Realtime Database
+https://siri-thesis-default-rtdb.firebaseio.com/
+โดยโปรแกรมสามารถเข้าถึงฐานข้อมูลนี้ผ่าน Rest Client API ซึ่งถูกติดตั้งไว้ใน ArmStrong.unitypackage เป็นที่เรียบร้อยแล้ว
