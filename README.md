@@ -11,18 +11,18 @@
 3.  ติดตั้ง Post Peocessing Package โดยเข้าไปที่ Window > Package Manager จากนั้นทำการค้นหาและติดตั้ง Post Processing
 4.  เพิ่ม Scene ใน Build Settings โดยเข้าไปที่ File > Build Settings จากนั้นนำ Scene ในโฟลเดอร์ Scenes มาใส่ในช่อง Scenes In Build 
     โดยเรียงลำดับดังนี้ 
-
-    0     Login<br />
-    1     SignUp<br />
-    2     Home<br />
-    3     Line<br />
-    4     Circle<br />
-    5     Square<br />
-    6     Horizontal<br />
-    7     Vertical<br />
-    8     Random<br />
+<pre>
+    0     Login
+    1     SignUp
+    2     Home
+    3     Line
+    4     Circle
+    5     Square
+    6     Horizontal
+    7     Vertical
+    8     Random
     9     Info
-
+</pre>
 5.  ตั้งค่า Build สำหรับ Android โดยการเลือก Android ในช่อง Platform จากนั้นกด Switch Platform
 <br />
 
