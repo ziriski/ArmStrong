@@ -2,7 +2,9 @@
 261491, 261492 Final Project | CPE CMU 2020  
 
 **_Installation_**<br />
-สามารถติดตั้งไฟล์ ArmStrong.apk ลงบนอุปกรณ์ Android ได้เลย 
+สามารถติดตั้งไฟล์ ArmStrong.apk ลงบนอุปกรณ์ Android ได้เลย <br />
+โดยสามารถดาวน์โหลด ArmStrong.apk ได้ที่ <br />
+https://drive.google.com/file/d/1WaN5hoUSfJtYk48SY7Arv_TrXdsLKa9X/view?usp=sharing
 <br /><br />
 
 **_Installation สำหรับ Unity Project_**<br />
