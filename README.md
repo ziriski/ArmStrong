@@ -1,5 +1,5 @@
 # ArmStrong
-261491, 261492 Project | CPE CMU 2020  
+261491, 261492 Final Project | CPE CMU 2020  
 
 **_Installation_**<br />
 สามารถติดตั้งไฟล์ ArmStrong.apk ลงบนอุปกรณ์ Android ได้เลย 
